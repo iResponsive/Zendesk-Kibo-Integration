@@ -18,7 +18,14 @@ At Zendesk, the Support team faces delays in gathering order details manually. O
 - **Actionable Features:**  Edit the Shipping address and Cancel the order upon customer request 
 
 # How the application works
-
+1. When a customer sends an email to the support team for any order related issue, a ticket is created at Zendesk Ticketing System.<br>
+2. Our internal application installed within the Zendesk Ticketing system reads the ticket description using the Zendesk API's
+3. From the ticket description , the applicaiton parses the email id and order id if provided in the ticket description
+4. The application makes API calls to the Middleware application using the order id or Email id.
+5. The Middleware inturn makes API requests to Kibo for Authentication, and other Order related and Shipment related API's for fetching the respective data.
+6. Kibo returns the API responses to the Middleware, which in turn responds to the Zendesk application.
+7. Using the response data, the Order related information is rendered on our application screens
+   
 # Technical Stack:
 
 ## Zendesk Application​
