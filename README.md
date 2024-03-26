@@ -60,12 +60,12 @@ To run your app locally in Zendesk, you need the latest [Zendesk CLI](https://gi
 ### Running locally
 
 To serve the app to your Zendesk instance with `?zcli_apps=true`, open a new terminal and run
-
+Execute the following commands in separate terminal windows.
 ```
-npm run watch (Seperate Terminal)
+npm run watch 
 ```
 ```
-npm run start (Seperate Terminal)
+npm run start 
 ```
 ## Folder structure
 
@@ -119,18 +119,12 @@ For more information on the Zendesk CLI please see the [documentation](https://d
 # Usage
 Refer the documentation (`https://developer.zendesk.com/documentation/apps/getting-started/setting-up-new-apps/`)
 
-# Configuration
-Detail any configuration options or settings users can customize. Include information on where configuration files are located and how to modify them.
-
 # Support
 If you need help or have any questions about using the Zendesk-Kibo Integration, there are several resources available:
 
 **Documentation:** Refer to the official documentation for detailed instructions on installation, configuration, and usage of the integration.<br>
 **Issue Tracker:** If you encounter a bug or need to report an issue, please open a new issue on our GitHub repository.<br>
 **Contact Us:** For further assistance or inquiries, feel free to contact our support team at support@d3v-iresponsivesolutions5151.zendesk.com. We're here to help!<br>
-
-# Disclaimer
-Include any disclaimers or limitations of liability for your integration. This may include warnings about potential bugs, security vulnerabilities, or compatibility issues.
 
 # Resources
 Provide links to additional resources that may be helpful for users, such as tutorials, API documentation, or related projects.
