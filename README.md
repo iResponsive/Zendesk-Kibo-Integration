@@ -88,7 +88,7 @@ The folder and file structure of the App Scaffold is as follows:
 
 ## Deploying
 
-Refer this documentation ( `https://developer.zendesk.com/documentation/apps/build-an-app/using-react-in-a-support-app/` ) for deploying the application in organization domain.
+Refer this documentation (https://developer.zendesk.com/documentation/apps/build-an-app/using-react-in-a-support-app/) for deploying the application in organization domain.
 
 To check that your app will pass the server-side validation check, run
 
@@ -127,7 +127,7 @@ If you need help or have any questions about using the Zendesk-Kibo Integration,
 **Contact Us:** For further assistance or inquiries, feel free to contact our support team at support@d3v-iresponsivesolutions5151.zendesk.com. We're here to help!<br>
 
 # Resources
-1.https://developer.zendesk.com/documentation/apps/getting-started/setting-up-new-apps/
-2.https://developer.zendesk.com/documentation/apps/getting-started/using-zcli/#creating-starter-files-for-a-zendesk-app
-3.https://developer.zendesk.com/documentation/apps/app-developer-guide/making-api-requests-from-a-zendesk-app/
-4.https://developer.zendesk.com/api-reference/apps/apps-core-api/client_api/
+1.https://developer.zendesk.com/documentation/apps/getting-started/setting-up-new-apps/<br>
+2.https://developer.zendesk.com/documentation/apps/getting-started/using-zcli/#creating-starter-files-for-a-zendesk-app<br>
+3.https://developer.zendesk.com/documentation/apps/app-developer-guide/making-api-requests-from-a-zendesk-app/<br>
+4.https://developer.zendesk.com/api-reference/apps/apps-core-api/client_api/<br>
