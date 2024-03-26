@@ -127,5 +127,7 @@ If you need help or have any questions about using the Zendesk-Kibo Integration,
 **Contact Us:** For further assistance or inquiries, feel free to contact our support team at support@d3v-iresponsivesolutions5151.zendesk.com. We're here to help!<br>
 
 # Resources
-Provide links to additional resources that may be helpful for users, such as tutorials, API documentation, or related projects.
-
+1.https://developer.zendesk.com/documentation/apps/getting-started/setting-up-new-apps/
+2.https://developer.zendesk.com/documentation/apps/getting-started/using-zcli/#creating-starter-files-for-a-zendesk-app
+3.https://developer.zendesk.com/documentation/apps/app-developer-guide/making-api-requests-from-a-zendesk-app/
+4.https://developer.zendesk.com/api-reference/apps/apps-core-api/client_api/
