@@ -33,6 +33,7 @@ At Zendesk, the Support team faces delays in gathering order details manually. O
 **Library:**  React JS​
 
 ## Middleware Application:​
+Git repository link: https://github.com/iResponsive/Middleware-Kibo-Integration.git<br>
 Serves as a proxy application layer to eliminate the CORS policy issue between Zendesk and Kibo<br>
 **Backend Framework:** Node.js​<br>
 **Hosting:** Azure Cloud​
